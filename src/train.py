@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 df = pd.read_csv("data/heart.csv")
 
-X = df.drop("target", axis=1)
+X = df.drop("num", axis=1)
 y = df["num"]
 
 X_train, X_test, y_train, y_test = train_test_split(
