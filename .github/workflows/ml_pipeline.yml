@@ -23,7 +23,11 @@ jobs:
 
       - run: pip install flake8
 
+<<<<<<< HEAD
       - run: flake8 src/
+=======
+      - run: flake8 src/ 
+>>>>>>> 7d0c7d2141572000d5678a4f3219ad929eab2af9
 
   train:
 

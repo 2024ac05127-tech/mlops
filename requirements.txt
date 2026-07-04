@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bottleneck==1.4.2
 Cython==3.0.12
 GDAL==3.8.4
@@ -669,3 +670,14 @@ tomli==2.0.1
 fastapi==0.139.0
 joblib==1.5.3
 numpy==2.5.1
+=======
+pandas==2.2.3
+numpy==2.0.2
+scikit-learn==1.9.0
+joblib==1.5.3
+fastapi==0.139.0
+uvicorn==0.35.0
+mlflow
+pytest
+flake8
+>>>>>>> 7d0c7d2141572000d5678a4f3219ad929eab2af9
