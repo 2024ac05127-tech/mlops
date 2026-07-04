@@ -23,7 +23,7 @@ jobs:
 
       - run: pip install flake8
 
-      - run: flake8 src/ --ignore=E231
+      - run: flake8 src/ 
 
   train:
 
