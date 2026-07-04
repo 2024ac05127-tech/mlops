@@ -6,3 +6,5 @@ mlflow
 pytest
 flake8
 matplotlib
+fastapi
+uvicorn
