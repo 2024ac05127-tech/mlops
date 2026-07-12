@@ -1,6 +1,6 @@
 import pandas as pd
 
-DATA_PATH = "heart.csv"
+DATA_PATH = "data/heart.csv"
 
 
 def test_dataset_not_empty():
